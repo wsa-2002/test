@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: traefik
   rules:
-  - host: pet.192.168.15.144.sslip.io
+  - host: pet.192.168.56.101.sslip.io
     http:
       paths:
       - backend:
